@@ -1,0 +1,1 @@
+# get_barcode_info
